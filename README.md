@@ -38,15 +38,15 @@ I'm an **Android Developer** focused on **clean architecture, scalable multi-mod
 
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![Material 3](https://img.shields.io/badge/Material_3-757575?style=flat-square&logo=materialdesign&logoColor=white)
-![Coroutines](https://img.shields.io/badge/Coroutines_&_Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines_%26_Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Hilt](https://img.shields.io/badge/Hilt-34A853?style=flat-square&logo=android&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit_+_OkHttp-48B983?style=flat-square&logo=square&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit_%2B_OkHttp-48B983?style=flat-square&logo=square&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-4285F4?style=flat-square&logo=sqlite&logoColor=white)
 ![Paging 3](https://img.shields.io/badge/Paging_3-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Media3](https://img.shields.io/badge/Media3_/_ExoPlayer-FF0000?style=flat-square&logo=youtube&logoColor=white)
+![Media3](https://img.shields.io/badge/Media3_%2F_ExoPlayer-FF0000?style=flat-square&logo=youtube&logoColor=white)
 ![CameraX](https://img.shields.io/badge/CameraX-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1f2937?style=flat-square)
-![MVI](https://img.shields.io/badge/MVI_/_MVVM-1f2937?style=flat-square)
+![MVI](https://img.shields.io/badge/MVI_%2F_MVVM-1f2937?style=flat-square)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
 
 </div>
